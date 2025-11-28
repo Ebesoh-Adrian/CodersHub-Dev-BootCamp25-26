@@ -47,7 +47,7 @@ The **100 HTML CSS JavaScript Projects** repository is an open-source educationa
 
 ## 🎯 Our Mission: Code with Clarity
 
-At **Codershub**, founded by **Ebesog Adrian**, we believe that:
+At **Codershub**, founded by **Ebesoh Adrian**, we believe that:
 
 > **The best way to learn is by doing, and the best way to solidify that knowledge is by teaching.**
 
